@@ -15,6 +15,7 @@ Open http://localhost:8000 in a browser.
 ## Features
 
 - Colourful, responsive dashboard and focused sidebar navigation.
+- Separate Policies and Procedures study notes with case-based examples and expandable knowledge checks.
 - Editable 120-minute practical lesson, activity ordering and duration warnings.
 - Information security case study, task instructions and evidence links.
 - Twelve fictional students across three groups, with competency tracking and feedback.
@@ -31,3 +32,7 @@ Use **Practical lesson planner** to edit lesson details and tasks, **Student com
 ## Source
 
 `dist/index.html` contains the HTML, styling and interactive JavaScript. Serve the `dist` directory using any static website host.
+
+## Topic notes
+
+Open **Policies notes** to review document types, policy structure, and access control / acceptable use examples. Open **Procedures notes** for a step template and six-step incident reporting example. Each topic includes an expandable knowledge check and links to the next topic or lesson planner. Direct links use `#policies` and `#procedures`.
